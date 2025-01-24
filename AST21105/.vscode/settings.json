@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.suml": "yaml",
+		"*.css": "css",
+		"iostream": "cpp"
+	}
+}
